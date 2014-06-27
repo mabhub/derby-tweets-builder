@@ -1,0 +1,19 @@
+{
+  "name": "derby-tweets-builder",
+  "version": "0.0.0",
+  "description": "derby-tweets-builder ====================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mabhub/derby-tweets-builder.git"
+  },
+  "author": "Benjamin Marguin <git@ma-b.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mabhub/derby-tweets-builder/issues"
+  },
+  "homepage": "https://github.com/mabhub/derby-tweets-builder"
+}
